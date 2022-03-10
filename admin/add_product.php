@@ -5,7 +5,7 @@ session_start();
 
 
 if(isset($_POST['submit']))
-{
+{ 
 $product_name=$_POST['product_name']; 
 $details=$_POST['details'];
 $price=$_POST['price'];
