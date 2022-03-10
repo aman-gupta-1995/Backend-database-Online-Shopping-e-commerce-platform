@@ -10,7 +10,7 @@ $product_name=$_POST['product_name'];
 $details=$_POST['details']; 
 $price=$_POST['price']; 
 $c_price=$_POST['c_price'];  
-$product_type=$_POST['product_type'];
+$product_type=$_POST['product_type']; 
 $brand=$_POST['brand'];  
 $tags=$_POST['tags']; 
 
