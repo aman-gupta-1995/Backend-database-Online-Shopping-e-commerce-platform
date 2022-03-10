@@ -32,7 +32,7 @@ mysqli_query($con,"insert into products (product_cat, product_brand,product_titl
  header("location: sumit_form.php?success=1");
 }
 
-mysqli_close($con);
+mysqli_close($con); 
 }
 ?>
 <!DOCTYPE html>
