@@ -4,7 +4,7 @@ $(document).ready(function(){
 	brand();  
 	product();    
         
-    producthome();    
+    producthome();     
      
        
 	//cat() is a funtion fetching category record from database whenever page is load
