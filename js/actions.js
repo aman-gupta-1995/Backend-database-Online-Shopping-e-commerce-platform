@@ -6,7 +6,7 @@ $(document).ready(function(){
         
     producthome();    
     
-    
+      
 	//cat() is a funtion fetching category record from database whenever page is load
 	function cat(){
 		$.ajax({
