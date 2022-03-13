@@ -2,7 +2,7 @@ $(document).ready(function(){
 	cat();
     cathome(); 
 	brand();   
-	product();    
+	product();     
          
     producthome();       
      
