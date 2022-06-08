@@ -9,7 +9,7 @@
 				<span class="icon-bar"></span>   
 				<span class="icon-bar"></span> 
 				<span class="icon-bar"></span>   
-			</button>    
+			</button>     
 			<a class="navbar-brand" href="#" style="font-size:24px">  
 				Admin Panel	</a>		</div> 
 
