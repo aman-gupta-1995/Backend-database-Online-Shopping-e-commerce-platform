@@ -7,7 +7,7 @@ if(isset($_SESSION['admin_id'])&& $_SESSION['admin_id']!="")
 else 
 {
    header("location: login.php");  
-} 
+}  
 
 $inactive=1000;
 if(isset($_SESSION['timeout']))
