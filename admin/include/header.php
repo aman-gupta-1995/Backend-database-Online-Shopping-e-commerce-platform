@@ -13,7 +13,7 @@
 			<a class="navbar-brand" href="#" style="font-size:24px">
 				Admin Panel	</a>		</div>
 
-<div class="collapse navbar-collapse">
+<div class="collapse navbar-collapse"> 
 <ul class="nav navbar-nav navbar-right">
 <li class="dropdown ">
 <a href="#">Settings</a></li>
