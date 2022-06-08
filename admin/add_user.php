@@ -2,7 +2,7 @@
 
 include("../db.php"); 
 
-if(isset($_POST['btn_save']))
+if(isset($_POST['btn_save'])) 
 { 
 $first_name=$_POST['first_name'];
 $last_name=$_POST['last_name'];
