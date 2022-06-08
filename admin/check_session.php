@@ -8,7 +8,7 @@ else
 { 
    header("location: login.php");  
 }  
-
+ 
 $inactive=1000;
 if(isset($_SESSION['timeout']))
 {
