@@ -1,5 +1,5 @@
 <?php
-
+ 
 include("../db.php");
 $user_id=$_REQUEST['user_id'];
 
