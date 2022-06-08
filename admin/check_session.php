@@ -4,7 +4,7 @@ if(isset($_SESSION['admin_id'])&& $_SESSION['admin_id']!="")
 {
     
 }
-else 
+else  
 { 
    header("location: login.php");  
 }  
