@@ -14,7 +14,7 @@
 				Admin Panel	</a>		</div> 
 
 <div class="collapse navbar-collapse"> 
-<ul class="nav navbar-nav navbar-right">
+<ul class="nav navbar-nav navbar-right"> 
 <li class="dropdown ">
 <a href="#">Settings</a></li>
         <li><a href=".././logout.php">Logout</a></li 
