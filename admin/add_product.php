@@ -3,7 +3,7 @@
 include("../db.php");   
 session_start(); 
 
-   
+  
 if(isset($_POST['submit']))         
 { 
 $product_name=$_POST['product_name'];       
