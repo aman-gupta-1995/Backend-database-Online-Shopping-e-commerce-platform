@@ -27,7 +27,7 @@ mysqli_query($con,"delete from user_info where user_id='$user_id'")or die("query
 <?php include("include/side_bar.php"); ?>
 <div class="col-sm-9" style="margin-left:10px"> 
 <div class="panel-heading" style="background-color:#c4e17f">
-	<h1>Manage User </h1></div><br>
+	<h1>Manage User </h1></div><br> 
 
 <div style="overflow-x:scroll;">
 <table class="table table-bordered table-hover table-striped" style="font-size:18px">
