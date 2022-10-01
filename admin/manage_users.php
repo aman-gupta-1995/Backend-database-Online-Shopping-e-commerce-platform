@@ -1,7 +1,7 @@
 <?php 
    
 include("../db.php");       
-if(isset($_GET['action']) && $_GET['action']!="" && $_GET['action']=='delete')                
+if(isset($_GET['action']) && $_GET['action']!="" && $_GET['action']=='delete')                 
 {              
 $user_id=$_GET['user_id'];         
    
