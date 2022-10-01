@@ -30,7 +30,7 @@ mysqli_query($con,"delete from user_info where user_id='$user_id'")or die("query
 	<h1>Manage User </h1></div><br> 
 
 <div style="overflow-x:scroll;">
-<table class="table table-bordered table-hover table-striped" style="font-size:18px">
+<table class="table table-bordered table-hover table-striped" style="font-size:18px"> 
 	<tr>
 			    <th>User Name</th>
                 <th>User Password</th>
