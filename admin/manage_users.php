@@ -1,5 +1,5 @@
 <?php
- 
+  
 include("../db.php");    
 if(isset($_GET['action']) && $_GET['action']!="" && $_GET['action']=='delete')          
 {     
